@@ -5,6 +5,11 @@
     "comestibles": "Comestibles",
     "lacteos": "Lácteos"
   },
+  "category_order": [
+    "bebidas",
+    "comestibles",
+    "lacteos"
+  ],
   "currency": "$",
   "hero_title": "Al Señor tu Dios adorarás, y a Él solo servirás. \u003cspan class=\"hl\"\u003eMateo 4:10\u003c/span\u003e",
   "location_intro": "Sabores ecuatorianos elaborados con fe, tradición y dedicación.",

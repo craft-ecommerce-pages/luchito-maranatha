@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "id": "7e85c5e2-66f0-43a5-b2ea-248e3ba24c38",
+    "slug": "agua-de-jamaica",
+    "nombre": "Agua de Jamaica",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Refrescante infusión de flor de Jamaica, de color rubí profundo y equilibrio perfecto entre notas florales, un toque ácido y dulzor delicado. Servida fría es pura frescura. Presentación personal de 500 ml.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f6c39d31-8e7b-455f-81e5-30fa5815a1e8",
+    "slug": "bollos-de-albacora",
+    "nombre": "Bollos de albacora",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "comestibles"
+    ],
+    "descripcion": "Bollo manabita de masa húmeda y especiada, preparado con verde, maní y generosos trozos de albacora. Se sirve con cremosa salsa de maní para disfrutar hasta la última cucharada.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ac743e14-3ea8-440b-a364-ec6a1175ad40",
+    "slug": "colada-morada",
+    "nombre": "Colada Morada",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Una bebida ecuatoriana intensa y fragante, con el dulzor frutal de la mora y el mortiño, especias cálidas y una textura aterciopelada que invita a saborear cada sorbo. Presentación personal de 500 ml.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7339233b-1eae-48de-b0dd-b832a697e698",
+    "slug": "hayacas",
+    "nombre": "Hayacas",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "comestibles"
+    ],
+    "descripcion": "Masa tierna y sabrosa sobre hoja de plátano, coronada con pollo desmechado, huevo, aceitunas y pasas. Cada bocado combina aromas, texturas y ese sazón tradicional que reúne a la familia.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "4d37cbce-7d19-4831-8195-bbfe4414dae9",
+    "slug": "humitas",
+    "nombre": "Humitas",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "comestibles"
+    ],
+    "descripcion": "Nuestra especialidad: humitas suaves y jugosas, hechas con maíz tierno y envueltas en su propia hoja para conservar todo su aroma. Tiernas, ligeramente dulces y con auténtico sabor de casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d35320f5-9bc3-4889-88ff-2495621a14b9",
+    "slug": "morocho-con-leche-deslactosada",
+    "nombre": "Morocho con leche deslactosada",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Cremoso, espeso y reconfortante: morocho de grano tierno cocido lentamente con leche deslactosada hasta lograr esa textura casera que abraza el paladar. Presentación personal de 500 ml.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "41f9af27-7cf2-4864-93f4-bc45b0d62ef6",
+    "slug": "promo-morocho-colada-morada",
+    "nombre": "Promo Morocho + Colada Morada",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Lleva un morocho cremoso y una colada morada frutal, ambos de 500 ml, y recibe gratis un agua de Jamaica personal de 500 ml. Tres sabores tradicionales para refrescar, compartir y disfrutar.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1b817276-af02-40a0-9644-9ee430290634",
+    "slug": "queso-manaba-450-g",
+    "nombre": "Queso Manaba 450 g",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "lacteos"
+    ],
+    "descripcion": "Queso fresco artesanal de 450 g, de sabor lácteo limpio, textura suave y un delicado punto salado. Perfecto para desayunos, meriendas o para darle un toque manabita a cualquier receta.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9c535030-e9e0-4347-bfe3-91bcafcbf917",
+    "slug": "queso-mozzarella-450-g",
+    "nombre": "Queso Mozzarella 450 g",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "lacteos"
+    ],
+    "descripcion": "Mozzarella fresca de 450 g, suave y cremosa, con un fundido sedoso que se estira en cada bocado. Ideal para gratinar, preparar sándwiches o convertir una receta sencilla en puro antojo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1ee1e56f-f9c0-42d7-a066-fb78944c0534",
+    "slug": "tortillas-de-verde",
+    "nombre": "Tortillas de verde",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [
+      "comestibles"
+    ],
+    "descripcion": "Doradas por fuera, suaves por dentro y rellenas con un guiso jugoso de carne de lomo fino. El verde y el relleno se funden en un bocado abundante, casero e irresistible.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  }
+]
