@@ -1,0 +1,90 @@
+{
+  "name": "Luchito Maranatha",
+  "email": "luchitomaranatha@gmail.com",
+  "password": "__INJECT_AT_RUNTIME__",
+  "company_name": "Luchito Maranatha",
+  "business_name": "Luchito Maranatha",
+  "country": "EC",
+  "timezone": "America/Guayaquil",
+  "repo_slug": "luchito-maranatha",
+  "brand": {
+    "store_name": "Luchito Maranatha",
+    "site_title": "Luchito Maranatha | Sabores tradicionales del Ecuador",
+    "hero_title": "Al Señor tu Dios adorarás, y a Él solo servirás. <span class=\"hl\">Mateo 4:10</span>",
+    "theme_primary": "#741915",
+    "theme_accent": "#C18A2E",
+    "whatsapp_number": "593969959995",
+    "whatsapp_message": "¡Dios le bendiga! Quiero consultar y hacer un pedido de Luchito Maranatha:",
+    "currency": "",
+    "badge_category": "comestibles",
+    "location_intro": "Sabores ecuatorianos elaborados con fe, tradición y dedicación."
+  },
+  "categories": [
+    { "slug": "bebidas", "name": "Bebidas" },
+    { "slug": "comestibles", "name": "Comestibles" },
+    { "slug": "lacteos", "name": "Lácteos" }
+  ],
+  "products": [
+    {
+      "name": "Morocho con leche deslactosada",
+      "price": "",
+      "description": "Cremoso, espeso y reconfortante: morocho de grano tierno cocido lentamente con leche deslactosada hasta lograr esa textura casera que abraza el paladar. Presentación personal de 500 ml.",
+      "categories": ["bebidas"]
+    },
+    {
+      "name": "Colada Morada",
+      "price": "",
+      "description": "Una bebida ecuatoriana intensa y fragante, con el dulzor frutal de la mora y el mortiño, especias cálidas y una textura aterciopelada que invita a saborear cada sorbo. Presentación personal de 500 ml.",
+      "categories": ["bebidas"]
+    },
+    {
+      "name": "Agua de Jamaica",
+      "price": "",
+      "description": "Refrescante infusión de flor de Jamaica, de color rubí profundo y equilibrio perfecto entre notas florales, un toque ácido y dulzor delicado. Servida fría es pura frescura. Presentación personal de 500 ml.",
+      "categories": ["bebidas"]
+    },
+    {
+      "name": "Humitas",
+      "price": "",
+      "description": "Nuestra especialidad: humitas suaves y jugosas, hechas con maíz tierno y envueltas en su propia hoja para conservar todo su aroma. Tiernas, ligeramente dulces y con auténtico sabor de casa.",
+      "categories": ["comestibles"]
+    },
+    {
+      "name": "Hayacas",
+      "price": "",
+      "description": "Masa tierna y sabrosa sobre hoja de plátano, coronada con pollo desmechado, huevo, aceitunas y pasas. Cada bocado combina aromas, texturas y ese sazón tradicional que reúne a la familia.",
+      "categories": ["comestibles"]
+    },
+    {
+      "name": "Bollos de albacora",
+      "price": "",
+      "description": "Bollo manabita de masa húmeda y especiada, preparado con verde, maní y generosos trozos de albacora. Se sirve con cremosa salsa de maní para disfrutar hasta la última cucharada.",
+      "categories": ["comestibles"]
+    },
+    {
+      "name": "Tortillas de verde",
+      "price": "",
+      "description": "Doradas por fuera, suaves por dentro y rellenas con un guiso jugoso de carne de lomo fino. El verde y el relleno se funden en un bocado abundante, casero e irresistible.",
+      "categories": ["comestibles"]
+    },
+    {
+      "name": "Queso Manaba 450 g",
+      "price": "",
+      "description": "Queso fresco artesanal de 450 g, de sabor lácteo limpio, textura suave y un delicado punto salado. Perfecto para desayunos, meriendas o para darle un toque manabita a cualquier receta.",
+      "categories": ["lacteos"]
+    },
+    {
+      "name": "Queso Mozzarella 450 g",
+      "price": "",
+      "description": "Mozzarella fresca de 450 g, suave y cremosa, con un fundido sedoso que se estira en cada bocado. Ideal para gratinar, preparar sándwiches o convertir una receta sencilla en puro antojo.",
+      "categories": ["lacteos"]
+    },
+    {
+      "name": "Promo Morocho + Colada Morada",
+      "price": "",
+      "description": "Lleva un morocho cremoso y una colada morada frutal, ambos de 500 ml, y recibe gratis un agua de Jamaica personal de 500 ml. Tres sabores tradicionales para refrescar, compartir y disfrutar.",
+      "categories": ["bebidas"]
+    }
+  ],
+  "logo_png_b64": "__INJECT_AT_RUNTIME__"
+}
