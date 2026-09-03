@@ -170,7 +170,8 @@
           footer.innerHTML = '<span id="footerYear"></span> · Luchito Maranatha · Powered by <a id="footerLink" href="https://craftmarketing.agency" target="_blank" rel="noopener">Craft Systems</a>';
         }
         var year = document.getElementById('footerYear');
-        if (year) year.textContent = new Date().getFullYear();
+        var currentYear = String(new Date().getFullYear());
+        if (year && year.textContent !== currentYear) year.textContent = currentYear;
       });
       observer.observe(document.body, {childList:true, subtree:true});
       document.addEventListener('click', function (event) {
