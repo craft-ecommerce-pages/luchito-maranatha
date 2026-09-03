@@ -161,8 +161,8 @@
     document.addEventListener('DOMContentLoaded', function () {
       var wa = 'https://wa.me/593969959995?text=';
       var observer = new MutationObserver(function () {
-        document.querySelectorAll('.btn-add,.modal-detail .btn-add').forEach(function (button) {
-          button.textContent = 'Consultar';
+        document.querySelectorAll('.btn-add,.btn-modal-add').forEach(function (button) {
+          if (button.textContent.trim() !== 'Consultar') button.textContent = 'Consultar';
           button.setAttribute('aria-label', 'Consultar disponibilidad por WhatsApp');
         });
         var footer = document.getElementById('footerText');
@@ -174,7 +174,7 @@
       });
       observer.observe(document.body, {childList:true, subtree:true});
       document.addEventListener('click', function (event) {
-        var button = event.target.closest('.btn-add');
+        var button = event.target.closest('.btn-add,.btn-modal-add');
         if (!button) return;
         event.preventDefault();
         event.stopImmediatePropagation();
