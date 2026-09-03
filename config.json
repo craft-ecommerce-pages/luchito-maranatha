@@ -1,0 +1,18 @@
+{
+  "badge_category": "comestibles",
+  "categories": {
+    "bebidas": "Bebidas",
+    "comestibles": "Comestibles",
+    "lacteos": "Lácteos"
+  },
+  "currency": "$",
+  "hero_title": "Al Señor tu Dios adorarás, y a Él solo servirás. \u003cspan class=\"hl\"\u003eMateo 4:10\u003c/span\u003e",
+  "location_intro": "Sabores ecuatorianos elaborados con fe, tradición y dedicación.",
+  "logo": "logo.png",
+  "site_title": "Luchito Maranatha | Sabores tradicionales del Ecuador",
+  "store_name": "Luchito Maranatha",
+  "theme_accent": "#C18A2E",
+  "theme_primary": "#741915",
+  "whatsapp_message": "¡Dios le bendiga! Quiero consultar y hacer un pedido de Luchito Maranatha:",
+  "whatsapp_number": "593969959995"
+}
