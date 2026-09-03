@@ -1,18 +1,17 @@
-# CLAUDE.md — Las Hamburguesas del Gordo Paul
+# CLAUDE.md — Luchito Maranatha
 
-Menú digital para **Las Hamburguesas del Gordo Paul** (smash burgers artesanales, Quito, Ecuador).
+Catálogo digital para **Luchito Maranatha**, marca ecuatoriana de alimentos tradicionales y productos empacados.
 
 ## Tecnología
 
-Mismo stack que pizza-planet: HTML/CSS/JS vanilla, sin build.
+HTML/CSS/JS vanilla, sin build, sobre `craft-catalog-engine`.
 
 ```
 index.html          # UI
 config.json         # config tienda (tema, whatsapp, mapa, category_order) — sync solo pisa `categories`
 productos.json      # generado por catalogsync (no editar a mano)
-assets/app.js       # lógica
-assets/style.css    # estilos
-media/logo.webp     # logo (fondo transparente, 1:1 ~800×800) — lo sube el cliente
+theme.css           # identidad visual bespoke
+logo.png            # logo horizontal con fondo transparente
 media/favicon.png   # favicon — lo sube el cliente
 ```
 
@@ -27,21 +26,21 @@ Todo lo demás de `config.json` (tema, tipografías, WhatsApp, ubicación, redes
 
 ## Datos del cliente
 
-- **WhatsApp pedidos**: +593986131942
-- **Ubicación**: Quito, Ecuador (mapa embebido en `config.location.map_embed`)
-- **Cloudflare Pages**: `las-hamburguesas-del-gordo-paul.pages.dev`
+- **WhatsApp consultas**: +593 96 995 9995
+- **Cloudflare Pages**: `luchito-maranatha.pages.dev`
+- **Business ID**: `b05e53ce-1194-49c4-9890-93d8d00060ac`
 
 ## Branding
 
-- **Paleta**: primary `#E4801C` (naranja) · accent `#F5B301` (ámbar) · fondo casi negro. En `config.json` (`theme_primary`/`theme_accent`) y defaults en `style.css`.
-- **Tipografías**: Anton (títulos display) + DM Sans (cuerpo).
+- **Paleta**: borgoña `#741915`, dorado `#C18A2E`, pergamino suave y fondo blanco.
+- **Tipografías**: Marcellus (títulos) + DM Sans (interfaz).
+- **Dirección visual**: minimalista, clara y profesional, inspirada en una app de supermercado premium.
 
-## Modelo de productos (hamburguesas)
+## Modelo del catálogo
 
-- Variante **Presentación**: Simple / Doble / Triple (recargo por tamaño).
-- Variante **Tipo**: Sola / Combo (+ papas fritas + cola).
-- Variante **Vegetales** (solo las que llevan vegetales frescos): Con vegetales (lechuga, tomate, cebolla) / Sin vegetales.
-- Imágenes: se cargan desde la UI de craft-crm (no viven en el repo).
+- Los productos no publican precios por decisión comercial; las acciones abren una consulta por WhatsApp.
+- `Humitas` y `Promo Morocho + Colada Morada` tienen tipo `promocion` y aparecen en el slider.
+- Las imágenes se cargaron mediante la API de Craft CRM y catalogsync las materializa en `producto/<slug>/images/`.
 
 ## Deploy
 
