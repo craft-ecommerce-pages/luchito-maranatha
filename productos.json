@@ -10,7 +10,9 @@
     ],
     "descripcion": "Refrescante infusión de flor de Jamaica, de color rubí profundo y equilibrio perfecto entre notas florales, un toque ácido y dulzor delicado. Servida fría es pura frescura. Presentación personal de 500 ml.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/agua-de-jamaica/images/agua-de-jamaica-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -25,7 +27,9 @@
     ],
     "descripcion": "Bollo manabita de masa húmeda y especiada, preparado con verde, maní y generosos trozos de albacora. Se sirve con cremosa salsa de maní para disfrutar hasta la última cucharada.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bollos-de-albacora/images/bollos-de-albacora-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -40,7 +44,9 @@
     ],
     "descripcion": "Una bebida ecuatoriana intensa y fragante, con el dulzor frutal de la mora y el mortiño, especias cálidas y una textura aterciopelada que invita a saborear cada sorbo. Presentación personal de 500 ml.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/colada-morada/images/colada-morada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -55,7 +61,9 @@
     ],
     "descripcion": "Masa tierna y sabrosa sobre hoja de plátano, coronada con pollo desmechado, huevo, aceitunas y pasas. Cada bocado combina aromas, texturas y ese sazón tradicional que reúne a la familia.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/hayacas/images/hayacas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -63,6 +71,7 @@
     "id": "4d37cbce-7d19-4831-8195-bbfe4414dae9",
     "slug": "humitas",
     "nombre": "Humitas",
+    "tipo": "promocion",
     "precio": "",
     "precio_promo": "",
     "categorias": [
@@ -70,7 +79,9 @@
     ],
     "descripcion": "Nuestra especialidad: humitas suaves y jugosas, hechas con maíz tierno y envueltas en su propia hoja para conservar todo su aroma. Tiernas, ligeramente dulces y con auténtico sabor de casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/humitas/images/humitas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -85,7 +96,9 @@
     ],
     "descripcion": "Cremoso, espeso y reconfortante: morocho de grano tierno cocido lentamente con leche deslactosada hasta lograr esa textura casera que abraza el paladar. Presentación personal de 500 ml.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/morocho-con-leche-deslactosada/images/morocho-con-leche-deslactosada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -93,6 +106,7 @@
     "id": "41f9af27-7cf2-4864-93f4-bc45b0d62ef6",
     "slug": "promo-morocho-colada-morada",
     "nombre": "Promo Morocho + Colada Morada",
+    "tipo": "promocion",
     "precio": "",
     "precio_promo": "",
     "categorias": [
@@ -100,7 +114,9 @@
     ],
     "descripcion": "Lleva un morocho cremoso y una colada morada frutal, ambos de 500 ml, y recibe gratis un agua de Jamaica personal de 500 ml. Tres sabores tradicionales para refrescar, compartir y disfrutar.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/promo-morocho-colada-morada/images/promo-morocho-colada-morada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -115,7 +131,9 @@
     ],
     "descripcion": "Queso fresco artesanal de 450 g, de sabor lácteo limpio, textura suave y un delicado punto salado. Perfecto para desayunos, meriendas o para darle un toque manabita a cualquier receta.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/queso-manaba-450-g/images/queso-manaba-450-g-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -130,7 +148,9 @@
     ],
     "descripcion": "Mozzarella fresca de 450 g, suave y cremosa, con un fundido sedoso que se estira en cada bocado. Ideal para gratinar, preparar sándwiches o convertir una receta sencilla en puro antojo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/queso-mozzarella-450-g/images/queso-mozzarella-450-g-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -145,7 +165,9 @@
     ],
     "descripcion": "Doradas por fuera, suaves por dentro y rellenas con un guiso jugoso de carne de lomo fino. El verde y el relleno se funden en un bocado abundante, casero e irresistible.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tortillas-de-verde/images/tortillas-de-verde-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   }
