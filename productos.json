@@ -8,7 +8,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Rubí, refrescante y naturalmente aromática: una infusión de flor de Jamaica con el punto perfecto entre dulzor y acidez. Botella familiar de 1,25 L, bien fría es irresistible.",
+    "descripcion": "Rubí, refrescante y naturalmente aromática: una infusión de flor de Jamaica con el punto perfecto entre dulzor y acidez. Botella familiar de 1,25 L; bien fría es irresistible.",
     "stock": null,
     "imagenes": [
       "/producto/agua-de-jamaica-125-l/images/agua-de-jamaica-125-l-1.webp"
@@ -34,18 +34,35 @@
     "sku": ""
   },
   {
-    "id": "ac743e14-3ea8-440b-a364-ec6a1175ad40",
-    "slug": "colada-morada",
-    "nombre": "Colada Morada",
-    "precio": "",
+    "id": "96d6a6af-9931-4a94-b6c2-df2b8323afa8",
+    "slug": "chicha-peruana-125-l",
+    "nombre": "Chicha Peruana 1,25 L",
+    "precio": "10.00",
     "precio_promo": "",
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Una bebida ecuatoriana intensa y fragante, con el dulzor frutal de la mora y el mortiño, especias cálidas y una textura aterciopelada que invita a saborear cada sorbo. Presentación personal de 500 ml.",
+    "descripcion": "Refrescante, frutal y especiada: chicha peruana de color intenso y aroma envolvente, servida en botella familiar de 1,25 L. Una bebida tradicional perfecta para compartir bien fría.",
     "stock": null,
     "imagenes": [
-      "/producto/colada-morada/images/colada-morada-1.webp"
+      "/producto/chicha-peruana-125-l/images/chicha-peruana-125-l-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ac743e14-3ea8-440b-a364-ec6a1175ad40",
+    "slug": "colada-morada-125-l",
+    "nombre": "Colada Morada 1,25 L",
+    "precio": "10.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Espesa, especiada y profundamente frutal: colada morada preparada con frutas, maíz morado y aromas tradicionales que llenan cada vaso de sabor casero. Botella familiar de 1,25 L.",
+    "stock": null,
+    "imagenes": [
+      "/producto/colada-morada-125-l/images/colada-morada-125-l-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -87,69 +104,111 @@
   },
   {
     "id": "d35320f5-9bc3-4889-88ff-2495621a14b9",
-    "slug": "morocho-con-leche-deslactosada",
-    "nombre": "Morocho con leche deslactosada",
-    "precio": "",
+    "slug": "morocho-125-l",
+    "nombre": "Morocho 1,25 L",
+    "precio": "10.00",
     "precio_promo": "",
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Cremoso, espeso y reconfortante: morocho de grano tierno cocido lentamente con leche deslactosada hasta lograr esa textura casera que abraza el paladar. Presentación personal de 500 ml.",
+    "descripcion": "Cremoso, espeso y reconfortante: granos tiernos de morocho cocidos lentamente hasta lograr esa textura casera que abraza el paladar. Botella familiar de 1,25 L. Elige leche entera, deslactosada o de almendras.",
     "stock": null,
     "imagenes": [
-      "/producto/morocho-con-leche-deslactosada/images/morocho-con-leche-deslactosada-1.webp"
+      "/producto/morocho-125-l/images/morocho-125-l-1.webp",
+      "/producto/morocho-125-l/images/morocho-125-l-2.webp",
+      "/producto/morocho-125-l/images/morocho-125-l-3.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tipo de leche",
+        "options": [
+          {
+            "image": "/producto/morocho-125-l/images/morocho-125-l-1.webp",
+            "label": "Leche entera"
+          },
+          {
+            "image": "/producto/morocho-125-l/images/morocho-125-l-2.webp",
+            "label": "Leche deslactosada"
+          },
+          {
+            "image": "/producto/morocho-125-l/images/morocho-125-l-3.webp",
+            "label": "Leche de almendras"
+          }
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
     "id": "41f9af27-7cf2-4864-93f4-bc45b0d62ef6",
-    "slug": "promo-morocho-colada-morada",
-    "nombre": "Promo Morocho + Colada Morada",
+    "slug": "promo-32-morocho-colada-jamaica",
+    "nombre": "Promo 3×2 · Morocho + Colada + Jamaica",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "20.00",
     "precio_promo": "",
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Lleva un morocho cremoso y una colada morada frutal, ambos de 500 ml, y recibe gratis un agua de Jamaica personal de 500 ml. Tres sabores tradicionales para refrescar, compartir y disfrutar.",
+    "descripcion": "¡La Jamaica va gratis! Recibe 1 botella de Morocho de 1,25 L ($10) + 1 botella de Colada Morada de 1,25 L ($10) + 1 botella de Agua de Jamaica de 1,25 L ($5). Valor normal: $25. Precio promo: $20. Ahorras $5. Elige el morocho con leche entera, deslactosada o de almendras.",
     "stock": null,
     "imagenes": [
-      "/producto/promo-morocho-colada-morada/images/promo-morocho-colada-morada-1.webp"
+      "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-1.webp",
+      "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-2.webp",
+      "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-3.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tipo de leche del morocho",
+        "options": [
+          {
+            "image": "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-1.webp",
+            "label": "Leche entera"
+          },
+          {
+            "image": "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-2.webp",
+            "label": "Leche deslactosada"
+          },
+          {
+            "image": "/producto/promo-32-morocho-colada-jamaica/images/promo-32-morocho-colada-jamaica-3.webp",
+            "label": "Leche de almendras"
+          }
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
     "id": "1b817276-af02-40a0-9644-9ee430290634",
-    "slug": "queso-manaba-450-g",
-    "nombre": "Queso Manaba 450 g",
+    "slug": "queso-manaba-1-kg",
+    "nombre": "Queso Manaba 1 kg",
     "precio": "",
     "precio_promo": "",
     "categorias": [
-      "lacteos"
+      "comestibles"
     ],
-    "descripcion": "Queso fresco artesanal de 450 g, de sabor lácteo limpio, textura suave y un delicado punto salado. Perfecto para desayunos, meriendas o para darle un toque manabita a cualquier receta.",
+    "descripcion": "Un kilo de auténtico queso manaba: fresco, de textura firme y ese punto salado irresistible que realza desayunos, tortillas, bolones y parrilladas. Contenido neto: 1 kg.",
     "stock": null,
     "imagenes": [
-      "/producto/queso-manaba-450-g/images/queso-manaba-450-g-1.webp"
+      "/producto/queso-manaba-1-kg/images/queso-manaba-1-kg-1.webp"
     ],
     "variantes": [],
     "sku": ""
   },
   {
     "id": "9c535030-e9e0-4347-bfe3-91bcafcbf917",
-    "slug": "queso-mozzarella-450-g",
-    "nombre": "Queso Mozzarella 450 g",
+    "slug": "queso-mozzarella-1-kg",
+    "nombre": "Queso Mozzarella 1 kg",
     "precio": "",
     "precio_promo": "",
     "categorias": [
-      "lacteos"
+      "comestibles"
     ],
-    "descripcion": "Mozzarella fresca de 450 g, suave y cremosa, con un fundido sedoso que se estira en cada bocado. Ideal para gratinar, preparar sándwiches o convertir una receta sencilla en puro antojo.",
+    "descripcion": "Un kilo de mozzarella suave y cremosa, con un fundido generoso y elástico que corona pizzas, gratinados, sánduches y parrilladas. Contenido neto: 1 kg.",
     "stock": null,
     "imagenes": [
-      "/producto/queso-mozzarella-450-g/images/queso-mozzarella-450-g-1.webp"
+      "/producto/queso-mozzarella-1-kg/images/queso-mozzarella-1-kg-1.webp"
     ],
     "variantes": [],
     "sku": ""
