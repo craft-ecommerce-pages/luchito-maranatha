@@ -1,17 +1,17 @@
 [
   {
     "id": "7e85c5e2-66f0-43a5-b2ea-248e3ba24c38",
-    "slug": "agua-de-jamaica",
-    "nombre": "Agua de Jamaica",
-    "precio": "",
+    "slug": "agua-de-jamaica-125-l",
+    "nombre": "Agua de Jamaica 1,25 L",
+    "precio": "5.00",
     "precio_promo": "",
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Refrescante infusión de flor de Jamaica, de color rubí profundo y equilibrio perfecto entre notas florales, un toque ácido y dulzor delicado. Servida fría es pura frescura. Presentación personal de 500 ml.",
+    "descripcion": "Rubí, refrescante y naturalmente aromática: una infusión de flor de Jamaica con el punto perfecto entre dulzor y acidez. Botella familiar de 1,25 L, bien fría es irresistible.",
     "stock": null,
     "imagenes": [
-      "/producto/agua-de-jamaica/images/agua-de-jamaica-1.webp"
+      "/producto/agua-de-jamaica-125-l/images/agua-de-jamaica-125-l-1.webp"
     ],
     "variantes": [],
     "sku": ""
