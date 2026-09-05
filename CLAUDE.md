@@ -38,8 +38,10 @@ Todo lo demás de `config.json` (tema, tipografías, WhatsApp, ubicación, redes
 
 ## Modelo del catálogo
 
-- Los productos no publican precios por decisión comercial; las acciones abren una consulta por WhatsApp.
-- `Humitas` y `Promo Morocho + Colada Morada` tienen tipo `promocion` y aparecen en el slider.
+- Las bebidas con precio definido lo muestran en su tarjeta; las acciones abren una consulta por WhatsApp.
+- `Humitas` y `Promo 3×2 · Morocho + Colada + Jamaica` tienen tipo `promocion` y aparecen en el slider.
+- Morocho y la promo 3×2 ofrecen variantes de leche entera, deslactosada y de almendras, cada una vinculada a su imagen.
+- Las bebidas empacadas usan envases de 1,25 L y los quesos contenido neto de 1 kg.
 - Las imágenes se cargaron mediante la API de Craft CRM y catalogsync las materializa en `producto/<slug>/images/`.
 
 ## Deploy
